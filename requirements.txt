@@ -3,3 +3,10 @@ streamlit
 pandas
 supabase
 python-dotenv
+matplotlib
+numpy
+plotly  
+requests
+pillow  
+scikit-learn
+scipy
