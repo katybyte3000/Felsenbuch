@@ -1,0 +1,501 @@
+peak_id,gipfel,gebiet,hoehe,lat,lon
+50,Bärenwächter,Rathen,29,50.943456,14.198154
+51,Wartturmgrat,Zschand,25,50.949353,14.128911
+52,Teufelswand,Zschand,44,50.922787,14.180654
+53,Teufelskopf 3,Zschand,26,50.932485,14.100135
+54,Teufelsgrat,Rathen,25,50.903111,14.04356
+55,Barbarinewand,Rathen,8,50.916903,14.139958
+56,Lilienwand,Rathen,12,50.924388,14.002939
+57,Mönchsnadel,Rathen,10,50.905176,14.109964
+58,Zwergengrat,Rathen,11,50.901242,14.05962
+59,Falkenkopf,Rathen,35,50.922095,14.053663
+60,Affenkopf,Rathen,10,50.947523,14.131193
+61,Falkenwächter,Rathen,23,50.937609,14.187803
+62,Adlerspitze,Rathen,27,50.928564,14.156742
+63,Bärengrat West,Rathen,27,50.92053,14.155355
+64,Bärengrat 1,Zschand,42,50.943612,14.133728
+65,Schusterwand,Rathen,40,50.903039,14.093762
+66,Teufelsgrat,Zschand,34,50.948555,14.037227
+67,Falkenstein,Rathen,18,50.93892,14.088895
+68,Schusterwand,Zschand,36,50.941441,14.172196
+69,Barbarinewand 3,Rathen,54,50.908348,14.139727
+70,Großerturm,Rathen,6,50.919381,14.098343
+71,Affengrat,Zschand,46,50.927181,14.15555
+72,Heideturm,Zschand,13,50.948417,14.181024
+73,Affenwand 1,Zschand,37,50.901658,14.18099
+74,Adlergrat,Zschand,32,50.926154,14.141353
+75,Schusterstein 2,Zschand,6,50.939055,14.196449
+76,Liliennadel,Zschand,51,50.936557,14.02707
+77,Schrammspitze 3,Rathen,24,50.923076,14.027281
+78,Falkenkopf 3,Rathen,44,50.91352,14.140499
+79,Bärenturm 1,Zschand,38,50.940652,14.109238
+80,Affenhorn,Zschand,31,50.912134,14.094306
+81,Schusterfels,Zschand,10,50.927976,14.146915
+82,Schrammkopf,Zschand,50,50.948627,14.082726
+83,Barbarineturm 2,Zschand,48,50.915951,14.045809
+84,Teufelsstein 3,Rathen,19,50.929722,14.164969
+85,Heidekopf,Rathen,46,50.910048,14.021364
+86,Lilienkopf,Rathen,46,50.934926,14.189176
+87,Affenhorn,Zschand,12,50.924567,14.131911
+88,Großerfels,Zschand,29,50.933997,14.030598
+89,Mönchsnadel,Zschand,33,50.928149,14.110373
+90,Tischhorn,Rathen,11,50.94485,14.123214
+91,Tischkopf,Rathen,30,50.939285,14.01646
+92,Kleinernadel,Rathen,19,50.94823,14.143681
+93,Kleinernadel 3,Rathen,6,50.935092,14.075079
+94,Mönchsfels Ost,Rathen,25,50.942661,14.102884
+95,Bärenfels 2,Zschand,47,50.93458,14.175902
+96,Schrammfels,Zschand,19,50.938947,14.02669
+97,Heidewächter,Rathen,34,50.910502,14.175193
+98,Heidegrat 3,Zschand,21,50.928978,14.086946
+99,Barbarinehorn,Rathen,24,50.932685,14.156308
+100,Mönchsstein Ost,Rathen,37,50.912858,14.119339
+101,Bärennadel 1,Rathen,19,50.905412,14.037142
+102,Wartturmkopf West,Zschand,49,50.946458,14.083184
+103,Heidegrat,Rathen,52,50.923877,14.093623
+104,Lilienwächter 3,Zschand,5,50.943398,14.088228
+105,Großerturm Ost,Zschand,7,50.929593,14.006812
+106,Falkennadel,Rathen,34,50.900733,14.151893
+107,Zwergenwächter,Rathen,31,50.929775,14.089199
+108,Wartturmstein,Rathen,23,50.926705,14.086874
+109,Tischwächter Ost,Zschand,14,50.916938,14.109687
+110,Affenwächter 3,Zschand,27,50.946881,14.044042
+111,Mönchswand,Rathen,18,50.94072,14.092243
+112,Mönchswand 3,Zschand,33,50.943432,14.056194
+113,Zwergenwächter,Rathen,51,50.925995,14.096909
+114,Teufelswächter,Rathen,26,50.948425,14.006669
+115,Heidespitze,Rathen,21,50.919014,14.031234
+116,Zwergennadel,Zschand,27,50.935053,14.037126
+117,Zwergenfels,Zschand,16,50.928319,14.166908
+118,Großerfels,Rathen,34,50.918209,14.038572
+119,Schusterwand,Rathen,27,50.943467,14.129009
+120,Mönchsgrat 1,Zschand,23,50.902656,14.127441
+121,Barbarineturm,Zschand,17,50.915913,14.041239
+122,Tischfels West,Rathen,47,50.917031,14.167054
+123,Adlergrat,Rathen,19,50.923908,14.150603
+124,Wartturmfels,Zschand,22,50.922275,14.065386
+125,Barbarinewand 2,Zschand,50,50.92544,14.179912
+126,Mönchswächter,Zschand,25,50.927576,14.090149
+127,Teufelskopf Ost,Zschand,51,50.916464,14.035422
+128,Tischspitze 1,Rathen,13,50.93166,14.109859
+129,Teufelsnadel 2,Rathen,9,50.924346,14.148512
+130,Mönchsnadel Ost,Zschand,17,50.929286,14.068103
+131,Heidewächter Ost,Rathen,37,50.906111,14.161143
+132,Adlerspitze,Rathen,10,50.939997,14.025522
+133,Bärengrat,Zschand,16,50.924311,14.171224
+134,Kleinerstein Ost,Zschand,22,50.942999,14.083621
+135,Schrammhorn 2,Rathen,31,50.940863,14.082912
+136,Affenturm 1,Rathen,31,50.928329,14.17589
+137,Heidefels,Zschand,8,50.94481,14.001946
+138,Barbarinewächter 3,Zschand,24,50.904354,14.126546
+139,Teufelsturm,Rathen,21,50.907009,14.132158
+140,Bärenturm,Rathen,20,50.938668,14.169634
+141,Falkenhorn,Rathen,41,50.941789,14.066991
+142,Falkenfels,Rathen,21,50.933928,14.119396
+143,Mönchswächter,Rathen,9,50.905245,14.049865
+144,Großerfels Ost,Rathen,20,50.92072,14.173499
+145,Zwergennadel 1,Zschand,26,50.91265,14.151105
+146,Kleinerspitze,Zschand,8,50.902754,14.199009
+147,Lilienspitze,Zschand,29,50.911777,14.083275
+148,Barbarinespitze,Zschand,31,50.943911,14.102412
+149,Lilienhorn,Rathen,19,50.902676,14.039639
+150,Adlerstein Ost,Rathen,35,50.932778,14.05543
+151,Wartturmspitze 2,Rathen,53,50.938813,14.098871
+152,Adlerkopf,Rathen,17,50.910032,14.060191
+153,Affenwand 2,Rathen,53,50.902989,14.006562
+154,Adlerturm,Rathen,50,50.92962,14.150697
+155,Mönchsspitze,Zschand,50,50.911843,14.113687
+156,Mönchsstein,Zschand,21,50.919992,14.008535
+157,Teufelsfels West,Rathen,29,50.935423,14.17107
+158,Großerwächter 3,Rathen,49,50.948026,14.145619
+159,Schrammspitze,Zschand,44,50.944973,14.137039
+160,Falkennadel,Zschand,5,50.901639,14.064075
+161,Lilienwand,Zschand,31,50.910065,14.150723
+162,Teufelshorn 2,Zschand,15,50.905135,14.173146
+163,Barbarinespitze,Zschand,20,50.936108,14.01441
+164,Zwergennadel West,Zschand,21,50.920549,14.157935
+165,Tischstein,Zschand,41,50.922462,14.174336
+166,Teufelskopf 1,Rathen,30,50.925883,14.088896
+167,Bärenwächter,Rathen,33,50.915127,14.017029
+168,Heidenadel West,Zschand,52,50.905609,14.039518
+169,Heidewand West,Rathen,29,50.91349,14.036573
+170,Bärenwächter,Rathen,6,50.947971,14.119319
+171,Bärenkopf,Rathen,24,50.915427,14.126276
+172,Tischkopf,Rathen,38,50.908304,14.137864
+173,Falkenspitze 3,Zschand,29,50.936522,14.000813
+174,Mönchshorn,Zschand,36,50.915688,14.091521
+175,Großerturm,Zschand,32,50.920989,14.051743
+176,Zwergenkopf 1,Rathen,16,50.920737,14.018126
+177,Kleinerfels,Zschand,43,50.917737,14.025403
+178,Zwergennadel,Rathen,22,50.938253,14.0776
+179,Zwergenhorn 1,Rathen,18,50.91588,14.12841
+180,Schrammkopf West,Rathen,28,50.90917,14.093803
+181,Bärenkopf 1,Rathen,42,50.908479,14.092654
+182,Zwergenwand,Zschand,53,50.913925,14.141344
+183,Tischgrat 1,Zschand,55,50.940138,14.131349
+184,Schusterkopf,Zschand,16,50.914317,14.002224
+185,Zwergenturm,Rathen,25,50.921676,14.16158
+186,Kleinerturm 2,Zschand,12,50.948324,14.052434
+187,Barbarinewand 3,Zschand,18,50.949096,14.028666
+188,Tischkopf,Rathen,12,50.939254,14.059226
+189,Wartturmfels,Rathen,54,50.946096,14.082139
+190,Schrammspitze 3,Zschand,31,50.946417,14.065328
+191,Zwergenwand,Rathen,23,50.935956,14.012407
+192,Großerkopf West,Zschand,26,50.907777,14.007027
+193,Tischspitze Ost,Zschand,52,50.935381,14.163312
+194,Heidespitze,Zschand,10,50.900974,14.172069
+195,Adlerwächter,Zschand,17,50.94764,14.152366
+196,Heidefels 1,Rathen,36,50.906483,14.196525
+197,Wartturmhorn 3,Rathen,19,50.907079,14.033249
+198,Wartturmfels Ost,Rathen,20,50.940273,14.072595
+199,Schrammwächter,Zschand,18,50.921024,14.02939
+200,Adlerspitze West,Zschand,6,50.914896,14.173574
+201,Schrammspitze,Zschand,41,50.918138,14.099136
+202,Barbarinefels,Rathen,41,50.91455,14.062704
+203,Tischnadel 2,Rathen,46,50.9395,14.149541
+204,Tischspitze,Rathen,6,50.915212,14.060632
+205,Wartturmhorn,Zschand,8,50.934793,14.166531
+206,Heidewächter,Rathen,23,50.918874,14.033358
+207,Falkenturm 2,Rathen,11,50.942765,14.138264
+208,Adlerkopf West,Zschand,13,50.928986,14.121806
+209,Kleinernadel 1,Rathen,22,50.90829,14.076429
+210,Adlerkopf,Zschand,29,50.906721,14.142254
+211,Liliennadel,Zschand,50,50.946949,14.035451
+212,Kleinerwand,Zschand,33,50.944537,14.01803
+213,Teufelshorn Ost,Rathen,25,50.946393,14.052335
+214,Kleinerfels 1,Rathen,18,50.938393,14.017281
+215,Großerstein West,Rathen,18,50.942364,14.070291
+216,Tischgrat 3,Rathen,11,50.900768,14.079501
+217,Bärenturm 2,Rathen,8,50.937665,14.091653
+218,Lilienfels West,Zschand,48,50.932865,14.059462
+219,Wartturmkopf Ost,Zschand,9,50.934691,14.030676
+220,Schrammwächter,Zschand,15,50.930392,14.043038
+221,Wartturmnadel,Zschand,8,50.926159,14.06799
+222,Affenkopf 1,Rathen,5,50.937683,14.049334
+223,Tischstein 3,Zschand,32,50.901586,14.073097
+224,Heidehorn,Zschand,48,50.942644,14.062289
+225,Wartturmkopf,Zschand,54,50.910575,14.059595
+226,Bärengrat,Zschand,28,50.907837,14.144005
+227,Kleinerkopf,Rathen,36,50.926399,14.074621
+228,Großerkopf 2,Rathen,7,50.909429,14.183475
+229,Schusterhorn,Rathen,34,50.935301,14.11629
+230,Zwergenhorn 2,Zschand,51,50.940705,14.037492
+231,Bärenwand,Rathen,8,50.912819,14.041223
+232,Zwergenspitze 2,Zschand,36,50.935113,14.163301
+233,Affenwand 2,Zschand,46,50.909729,14.111249
+234,Bärenwächter 2,Zschand,47,50.906687,14.0891
+235,Tischhorn 3,Zschand,45,50.924933,14.044353
+236,Zwergenturm,Zschand,20,50.905018,14.055485
+237,Heidespitze,Zschand,6,50.930374,14.118895
+238,Wartturmnadel 2,Rathen,29,50.940327,14.146359
+239,Adlerkopf 3,Rathen,52,50.94656,14.123749
+240,Kleinergrat,Zschand,5,50.923251,14.180994
+241,Teufelsgrat,Zschand,50,50.930397,14.057989
+242,Mönchsgrat 2,Zschand,44,50.903928,14.107647
+243,Wartturmnadel,Rathen,13,50.925217,14.121651
+244,Schrammgrat 2,Rathen,14,50.922344,14.030903
+245,Teufelsspitze,Rathen,23,50.919272,14.124327
+246,Großernadel,Rathen,23,50.911274,14.010504
+247,Barbarinegrat West,Zschand,49,50.902761,14.199058
+248,Tischturm 2,Zschand,13,50.9058,14.121425
+249,Mönchsfels,Zschand,33,50.913278,14.092227
+250,Mönchsstein,Zschand,29,50.943765,14.003118
+251,Tischkopf 2,Zschand,20,50.90989,14.138397
+252,Affenstein,Rathen,46,50.943265,14.026514
+253,Zwergenhorn,Zschand,43,50.917006,14.184283
+254,Mönchsturm 3,Zschand,9,50.905823,14.175472
+255,Zwergenturm,Zschand,31,50.924955,14.029627
+256,Tischwächter 3,Rathen,52,50.947109,14.120389
+257,Heidespitze 1,Rathen,41,50.907754,14.110986
+258,Schrammfels 2,Rathen,39,50.903661,14.13361
+259,Tischkopf,Rathen,53,50.941653,14.140987
+260,Tischnadel,Rathen,16,50.921201,14.123417
+261,Lilienkopf,Zschand,50,50.938427,14.185523
+262,Zwergenfels,Rathen,37,50.904293,14.001927
+263,Schrammwand,Rathen,44,50.93349,14.190392
+264,Kleinerhorn 2,Zschand,8,50.929831,14.145081
+265,Bärenfels,Zschand,37,50.93355,14.087034
+266,Kleinerspitze 3,Zschand,10,50.931286,14.030382
+267,Barbarinewand 1,Rathen,50,50.923667,14.181382
+268,Lilienturm,Zschand,14,50.945927,14.069153
+269,Heidefels Ost,Zschand,11,50.915036,14.178449
+270,Falkenfels,Zschand,48,50.902313,14.045669
+271,Mönchshorn 3,Zschand,40,50.940765,14.094586
+272,Heidegrat 2,Zschand,50,50.923986,14.142412
+273,Affenhorn,Zschand,48,50.929738,14.027594
+274,Heidehorn,Rathen,52,50.912069,14.135761
+275,Wartturmwand 2,Zschand,36,50.94393,14.015412
+276,Falkengrat,Zschand,19,50.945348,14.125236
+277,Wartturmstein West,Rathen,24,50.91843,14.088947
+278,Heidestein,Rathen,5,50.935937,14.033649
+279,Mönchshorn Ost,Rathen,34,50.919615,14.067355
+280,Affenstein Ost,Rathen,20,50.914015,14.05162
+281,Zwergenspitze Ost,Zschand,39,50.92697,14.111605
+282,Schrammwand,Rathen,53,50.91633,14.198813
+283,Bärenturm 1,Rathen,17,50.946681,14.08311
+284,Großerwächter,Zschand,19,50.936227,14.182674
+285,Tischwand West,Rathen,47,50.948389,14.198626
+286,Mönchsturm 3,Zschand,41,50.900022,14.024016
+287,Großernadel,Zschand,22,50.946173,14.021406
+288,Bärenwand,Rathen,39,50.923352,14.137504
+289,Schusterfels,Rathen,45,50.921554,14.142557
+290,Wartturmspitze West,Zschand,37,50.902544,14.163982
+291,Zwergenspitze,Rathen,20,50.934182,14.045773
+292,Affennadel 3,Zschand,39,50.904166,14.195321
+293,Großerspitze,Rathen,24,50.915583,14.176006
+294,Großerwand Ost,Rathen,53,50.910584,14.048309
+295,Affengrat 1,Zschand,52,50.922752,14.053385
+296,Falkenhorn 2,Zschand,39,50.926064,14.16953
+297,Lilienfels,Zschand,15,50.92819,14.024546
+298,Kleinerwand 3,Rathen,42,50.901947,14.049697
+299,Heideturm,Rathen,5,50.908524,14.181774
+300,Tischfels 3,Rathen,17,50.927339,14.161043
+301,Falkenfels 2,Rathen,39,50.946304,14.179901
+302,Lilienhorn 3,Zschand,30,50.904901,14.097483
+303,Lilienspitze,Rathen,6,50.929029,14.175606
+304,Schrammwächter 1,Rathen,26,50.915661,14.13236
+305,Zwergenkopf 2,Zschand,36,50.922856,14.197974
+306,Kleinerspitze 3,Rathen,19,50.927869,14.056901
+307,Schrammfels,Zschand,11,50.948582,14.171188
+308,Wartturmstein Ost,Rathen,12,50.94538,14.150306
+309,Heidenadel 1,Zschand,53,50.941995,14.042152
+310,Mönchsfels Ost,Rathen,49,50.936063,14.055759
+311,Zwergennadel 3,Zschand,39,50.920593,14.087493
+312,Adlerwächter 3,Rathen,20,50.92049,14.143953
+313,Teufelsfels,Rathen,51,50.940995,14.105955
+314,Bärenturm,Rathen,21,50.921154,14.011928
+315,Schusterfels,Zschand,22,50.934104,14.067705
+316,Adlergrat West,Zschand,32,50.936668,14.009539
+317,Bärenstein,Zschand,53,50.904191,14.153608
+318,Adlernadel,Rathen,26,50.913771,14.198027
+319,Barbarinekopf West,Rathen,51,50.929426,14.176791
+320,Barbarinefels,Zschand,23,50.913665,14.025134
+321,Falkenhorn 3,Rathen,47,50.949383,14.078651
+322,Teufelswand,Zschand,31,50.942791,14.154722
+323,Schusterhorn Ost,Zschand,6,50.911335,14.129524
+324,Zwergennadel,Zschand,33,50.913283,14.033903
+325,Barbarinehorn Ost,Rathen,25,50.919015,14.079483
+326,Tischnadel,Rathen,51,50.905964,14.058027
+327,Adlerwächter West,Zschand,19,50.907619,14.05962
+328,Heidewand,Zschand,42,50.928704,14.109921
+329,Teufelskopf 1,Zschand,11,50.931067,14.03343
+330,Barbarinestein,Rathen,35,50.929556,14.020083
+331,Tischkopf,Rathen,25,50.94985,14.087204
+332,Barbarinewand 1,Zschand,27,50.921831,14.17124
+333,Heidehorn 3,Rathen,6,50.924956,14.098416
+334,Affennadel,Rathen,44,50.946812,14.042966
+335,Adlerwächter West,Zschand,34,50.902973,14.009006
+336,Falkennadel 2,Rathen,41,50.945613,14.075602
+337,Bärennadel,Rathen,35,50.932947,14.057606
+338,Wartturmnadel,Rathen,37,50.910298,14.149698
+339,Kleinerwand 3,Rathen,50,50.941422,14.081707
+340,Wartturmnadel,Rathen,47,50.928669,14.050363
+341,Schusterstein 3,Zschand,12,50.906803,14.028894
+342,Mönchsfels Ost,Rathen,8,50.949064,14.029783
+343,Liliennadel,Rathen,52,50.9312,14.168353
+344,Schrammwand Ost,Rathen,53,50.922113,14.102732
+345,Falkenkopf,Rathen,36,50.903486,14.090441
+346,Mönchsstein Ost,Zschand,44,50.920005,14.038515
+347,Mönchswächter 3,Zschand,5,50.928289,14.000253
+348,Tischspitze West,Rathen,36,50.917273,14.168832
+349,Zwergengrat,Zschand,54,50.947707,14.127936
+350,Bärenkopf,Rathen,39,50.947219,14.132691
+351,Wartturmstein,Zschand,32,50.913245,14.121675
+352,Kleinerhorn Ost,Zschand,8,50.904703,14.099843
+353,Kleinerspitze 2,Zschand,55,50.924227,14.021641
+354,Wartturmhorn 1,Zschand,47,50.947155,14.054477
+355,Schusternadel Ost,Zschand,18,50.946417,14.021694
+356,Barbarinespitze,Zschand,52,50.936125,14.179088
+357,Heidewand 3,Zschand,23,50.927935,14.063111
+358,Affenwächter,Rathen,47,50.912505,14.00991
+359,Wartturmfels West,Rathen,32,50.941994,14.120143
+360,Schrammkopf 1,Zschand,20,50.928934,14.100354
+361,Barbarinenadel,Rathen,20,50.91918,14.184627
+362,Affenwand 3,Rathen,7,50.9386,14.062537
+363,Adlerkopf 3,Rathen,9,50.920322,14.116759
+364,Wartturmhorn,Rathen,46,50.946202,14.193024
+365,Schusterhorn Ost,Rathen,28,50.911328,14.107691
+366,Heidestein,Rathen,25,50.918905,14.039325
+367,Barbarineturm,Zschand,13,50.915344,14.157339
+368,Schrammfels 2,Zschand,35,50.917419,14.029078
+369,Schusterwächter West,Rathen,7,50.917152,14.018875
+370,Tischfels Ost,Rathen,10,50.949432,14.092534
+371,Heidenadel Ost,Rathen,6,50.901047,14.141374
+372,Lilienfels,Zschand,44,50.904821,14.155766
+373,Adlerspitze,Zschand,13,50.922785,14.189831
+374,Schrammgrat 1,Zschand,7,50.913703,14.146134
+375,Mönchsspitze 1,Rathen,20,50.922613,14.059893
+376,Tischwand,Rathen,11,50.922244,14.107686
+377,Zwergenkopf,Rathen,15,50.919883,14.065538
+378,Adlerkopf,Rathen,32,50.929733,14.071986
+379,Barbarinenadel 1,Zschand,49,50.937677,14.076545
+380,Kleinerstein,Zschand,11,50.90583,14.061149
+381,Zwergenhorn,Rathen,52,50.916232,14.181714
+382,Falkenturm,Zschand,55,50.911743,14.028418
+383,Teufelswächter,Rathen,28,50.901468,14.083224
+384,Mönchsstein 1,Zschand,38,50.911987,14.146544
+385,Affenfels 2,Zschand,38,50.90558,14.034735
+386,Schrammstein West,Zschand,41,50.937547,14.083764
+387,Heidespitze,Rathen,37,50.919044,14.091351
+388,Kleinerturm Ost,Rathen,30,50.911817,14.013193
+389,Falkenkopf,Zschand,32,50.920756,14.014073
+390,Lilienwächter,Rathen,25,50.901877,14.190106
+391,Schusterwand,Rathen,5,50.91341,14.133606
+392,Teufelshorn,Zschand,40,50.905211,14.115726
+393,Schrammspitze,Rathen,10,50.945647,14.164915
+394,Mönchsspitze 1,Zschand,38,50.903139,14.105636
+395,Schusternadel,Zschand,39,50.921405,14.065418
+396,Teufelswächter Ost,Rathen,24,50.901979,14.179344
+397,Barbarinegrat,Rathen,46,50.906057,14.021011
+398,Barbarinespitze,Rathen,6,50.925763,14.004536
+399,Mönchswächter,Zschand,18,50.913408,14.193367
+400,Falkenspitze West,Zschand,23,50.940463,14.163906
+401,Kleinerturm,Rathen,14,50.94133,14.08562
+402,Affenstein Ost,Zschand,55,50.902027,14.020682
+403,Affenhorn 3,Rathen,51,50.932309,14.066684
+404,Affenwächter,Zschand,14,50.92117,14.00141
+405,Großerkopf,Zschand,38,50.903601,14.105718
+406,Wartturmfels,Zschand,49,50.938342,14.081211
+407,Lilienhorn,Zschand,37,50.934243,14.117534
+408,Falkenkopf 2,Zschand,26,50.913103,14.004983
+409,Adlerstein,Zschand,30,50.94887,14.102225
+410,Falkenwächter,Zschand,5,50.949839,14.124778
+411,Falkenkopf,Rathen,16,50.940298,14.014488
+412,Schrammwand,Zschand,36,50.946108,14.020426
+413,Tischgrat 3,Rathen,44,50.937435,14.128501
+414,Lilienkopf,Rathen,10,50.93742,14.000008
+415,Adlerhorn,Rathen,11,50.944372,14.00996
+416,Bärenfels West,Rathen,19,50.902512,14.174659
+417,Teufelswächter West,Zschand,12,50.914948,14.091831
+418,Bärenturm 1,Rathen,31,50.925474,14.134397
+419,Zwergenturm,Zschand,8,50.900954,14.01333
+420,Schusterkopf,Rathen,55,50.948228,14.191303
+421,Mönchsturm 1,Rathen,6,50.922746,14.088714
+422,Zwergengrat,Zschand,46,50.929939,14.098135
+423,Affenkopf 3,Zschand,35,50.904073,14.177167
+424,Schusterturm 3,Rathen,30,50.930916,14.171571
+425,Barbarinekopf,Rathen,49,50.921527,14.192402
+426,Bärenfels 1,Rathen,53,50.949615,14.174472
+427,Bärenwand,Rathen,52,50.921665,14.031256
+428,Wartturmwand,Zschand,51,50.927427,14.141216
+429,Schusterkopf,Rathen,47,50.922184,14.13064
+430,Schrammturm,Zschand,6,50.94598,14.094417
+431,Zwergenwächter 2,Zschand,37,50.913145,14.00141
+432,Schusterhorn West,Zschand,52,50.901517,14.092914
+433,Mönchsnadel 2,Rathen,43,50.942846,14.0224
+434,Adlerkopf 1,Zschand,6,50.903838,14.188588
+435,Affenwand,Zschand,49,50.91338,14.126871
+436,Lilienstein Ost,Zschand,50,50.933904,14.106248
+437,Adlerhorn,Zschand,48,50.914811,14.00774
+438,Falkenwand,Zschand,29,50.930301,14.109126
+439,Kleinerspitze,Rathen,23,50.935126,14.088506
+440,Affenturm 2,Zschand,8,50.93654,14.043918
+441,Tischgrat,Zschand,44,50.914499,14.049106
+442,Heidehorn,Rathen,27,50.916834,14.146007
+443,Schusterstein,Rathen,5,50.921567,14.082463
+444,Schrammwand,Zschand,7,50.940274,14.045438
+445,Heidewand,Zschand,44,50.941072,14.115266
+446,Wartturmstein 1,Rathen,40,50.939562,14.024232
+447,Affenstein 3,Zschand,10,50.946757,14.168827
+448,Bärenwand,Zschand,46,50.912377,14.071065
+449,Wartturmwand,Rathen,5,50.930589,14.068271
+450,Kleinerkopf 3,Rathen,22,50.904073,14.182475
+451,Affennadel 3,Zschand,31,50.916895,14.155009
+452,Teufelsgrat 1,Zschand,33,50.900442,14.060214
+453,Großerstein 1,Rathen,32,50.937064,14.199701
+454,Schrammhorn West,Zschand,41,50.935234,14.069485
+455,Affenwächter,Zschand,17,50.932447,14.084561
+456,Zwergenstein West,Rathen,46,50.947181,14.061061
+457,Bärenwand 1,Zschand,32,50.947712,14.133933
+458,Mönchsnadel,Zschand,9,50.902799,14.187137
+459,Tischhorn West,Rathen,42,50.93557,14.010954
+460,Adlerturm West,Zschand,27,50.906807,14.101487
+461,Tischspitze,Zschand,47,50.946098,14.194155
+462,Barbarinenadel 3,Zschand,41,50.942796,14.042884
+463,Tischspitze 1,Rathen,40,50.904145,14.121992
+464,Adlerhorn,Zschand,36,50.926846,14.141491
+465,Tischhorn West,Zschand,54,50.904781,14.030054
+466,Lilienturm,Rathen,9,50.942017,14.003239
+467,Bärenhorn 1,Zschand,9,50.945555,14.132865
+468,Falkenturm,Zschand,32,50.909679,14.188182
+469,Falkenstein,Rathen,53,50.930283,14.010282
+470,Zwergenspitze,Rathen,50,50.938557,14.127486
+471,Wartturmnadel,Zschand,17,50.909736,14.192723
+472,Mönchswand,Zschand,44,50.938318,14.123689
+473,Wartturmgrat,Rathen,49,50.930754,14.102033
+474,Mönchskopf,Zschand,18,50.915661,14.041001
+475,Bärenwand 1,Rathen,23,50.935829,14.046415
+476,Teufelsfels,Rathen,44,50.920337,14.186283
+477,Teufelskopf,Zschand,11,50.920674,14.129767
+478,Zwergenturm 1,Rathen,20,50.919087,14.047935
+479,Affenstein,Zschand,48,50.915187,14.024894
+480,Tischhorn 2,Rathen,12,50.904021,14.185237
+481,Barbarinestein,Zschand,16,50.921397,14.068349
+482,Barbarineturm,Zschand,5,50.927277,14.04773
+483,Lilienhorn 2,Rathen,44,50.926986,14.08624
+484,Tischspitze 1,Rathen,54,50.946668,14.150064
+485,Großergrat 1,Zschand,11,50.932514,14.041108
+486,Großerfels 2,Zschand,49,50.902654,14.057034
+487,Kleinerwächter 1,Zschand,50,50.910037,14.097448
+488,Falkenspitze 1,Rathen,40,50.932519,14.056628
+489,Großergrat,Rathen,54,50.92524,14.144054
+490,Falkenwächter 1,Zschand,18,50.902908,14.058759
+491,Affenkopf,Rathen,35,50.946926,14.136831
+492,Kleinerstein 1,Zschand,28,50.915398,14.09056
+493,Falkenwächter,Rathen,18,50.938498,14.063373
+494,Affengrat 1,Zschand,37,50.925738,14.008878
+495,Schusterwächter,Rathen,23,50.91722,14.012159
+496,Affenspitze Ost,Rathen,39,50.924652,14.169282
+497,Großerstein,Rathen,7,50.925321,14.144195
+498,Adlerturm 2,Zschand,33,50.931959,14.081045
+499,Falkengrat 1,Zschand,24,50.937039,14.178879
+500,Barbarineturm,Zschand,43,50.93902,14.108291
+501,Liliennadel 3,Zschand,51,50.906997,14.017627
+502,Kleinerturm,Rathen,44,50.913887,14.038875
+503,Teufelsnadel 3,Zschand,18,50.909045,14.12631
+504,Heidewächter 2,Rathen,11,50.940448,14.128066
+505,Lilienwand,Zschand,17,50.935015,14.047321
+506,Barbarinestein,Rathen,48,50.91863,14.047261
+507,Mönchsstein,Zschand,51,50.931671,14.120197
+508,Schusterkopf,Rathen,6,50.92301,14.175626
+509,Kleinerfels,Zschand,31,50.90343,14.175566
+510,Heidefels West,Rathen,13,50.917583,14.176948
+511,Wartturmhorn,Zschand,31,50.913354,14.191743
+512,Kleinerfels,Zschand,31,50.928093,14.038806
+513,Bärenwächter,Rathen,41,50.944658,14.113076
+514,Tischgrat 3,Rathen,8,50.917646,14.023719
+515,Heidefels,Zschand,22,50.906786,14.107894
+516,Barbarinenadel,Zschand,34,50.914646,14.071831
+517,Kleinerstein,Rathen,25,50.943492,14.199958
+518,Wartturmspitze Ost,Rathen,38,50.949194,14.072576
+519,Schusterhorn 2,Zschand,18,50.929889,14.169077
+520,Großerkopf Ost,Rathen,35,50.928447,14.123705
+521,Kleinerfels,Zschand,24,50.944749,14.107597
+522,Großergrat 2,Zschand,31,50.914254,14.09631
+523,Bärenhorn,Zschand,45,50.903819,14.150926
+524,Schusterstein,Zschand,27,50.938959,14.089412
+525,Bärenstein,Zschand,28,50.9125,14.127585
+526,Wartturmturm West,Rathen,55,50.922091,14.18382
+527,Affenwächter Ost,Zschand,33,50.920784,14.011941
+528,Teufelsgrat,Rathen,36,50.900399,14.14188
+529,Affenkopf 2,Zschand,11,50.923707,14.090538
+530,Tischnadel,Zschand,25,50.923324,14.017047
+531,Schrammstein,Rathen,48,50.929351,14.074533
+532,Heidenadel,Zschand,9,50.94855,14.006552
+533,Wartturmhorn 1,Zschand,45,50.909847,14.062609
+534,Lilienstein,Rathen,15,50.90463,14.061216
+535,Wartturmturm 1,Zschand,51,50.916521,14.057261
+536,Bärenstein Ost,Zschand,38,50.912407,14.141677
+537,Barbarinegrat,Rathen,6,50.930316,14.002703
+538,Mönchsspitze 2,Rathen,23,50.93597,14.06144
+539,Zwergenwächter,Zschand,8,50.936358,14.006342
+540,Bärennadel 3,Zschand,35,50.93355,14.120863
+541,Barbarinewand Ost,Rathen,28,50.939274,14.134632
+542,Lilienstein,Zschand,31,50.901787,14.168502
+543,Großerstein,Zschand,50,50.921183,14.120648
+544,Teufelsfels 3,Rathen,43,50.907594,14.184203
+545,Falkenwand Ost,Rathen,26,50.937001,14.1816
+546,Barbarinespitze West,Rathen,33,50.900293,14.058167
+547,Liliennadel West,Zschand,54,50.925579,14.120118
+548,Adlergrat,Zschand,32,50.914469,14.115805
+549,Wartturmhorn 1,Zschand,7,50.927395,14.137637

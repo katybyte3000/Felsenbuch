@@ -1,0 +1,36 @@
+#vorerst ignorieren voN CSVs
+
+*.csv # Ignoriert alle CSV-Dateien
+
+
+# Python-spezifische Ignorierungen
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.env # Ignoriert die .env-Datei für Umgebungsvariablen
+
+# Streamlit-spezifische Ignorierungen (falls relevant)
+.streamlit/
+streamlit_app_name.py # Falls Streamlit temporäre Dateien in der App erstellt
+
+# Datenbank-spezifische Ignorierungen
+*.db # Ignoriert SQLite-Datenbankdateien
+*.sqlite
+*.sqlite3
+
+# Log-Dateien
+*.log
+
+# Backup-Dateien
+*~
+*.bak
+*.tmp
+
+# IDE-spezifische Ignorierungen (Beispiele)
+.vscode/ # Visual Studio Code
+.idea/   # PyCharm / IntelliJ
+*.iml
