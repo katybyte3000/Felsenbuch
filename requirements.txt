@@ -1,13 +1,8 @@
 
 streamlit
 pandas
+folium
+streamlit-folium
 supabase
 python-dotenv
 matplotlib
-numpy
-plotly  
-requests
-pillow  
-scikit-learn
-scipy
-matplotlib.pyplot
